@@ -1,7 +1,6 @@
 # HOLE
 ## Overview
-I was tasked to build my own Hole.io game in 4 days. 
-Made with Unity Game Engine (URP).
+I was tasked to build my own Hole.io game in 4 days using Unity Game Engine (URP).
 
 ## Mechanics
 Player needs to absorb as many food as he can within the time limit. 
