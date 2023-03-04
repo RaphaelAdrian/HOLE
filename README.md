@@ -15,7 +15,7 @@ Music BGM/SFX, Textures, User Interface was made by myself.
 ![image](https://user-images.githubusercontent.com/68283243/222924540-5c645a5d-203b-4210-b362-48943e039efc.png)
 ### Gameplay
 ![image](https://user-images.githubusercontent.com/68283243/222924699-1460babb-58ff-45f7-9294-05ccca91f86e.png)
-### Note: I am using 3940x1080 resolution or 32:9 Aspect Ratio. The game automatically plays in fullscreen mode.
+### Note: I am using 3840x1080 resolution or 32:9 Aspect Ratio. The game automatically plays in fullscreen mode.
 
 ## BUILD FILE
 Link: [Download HOLE Here](https://drive.google.com/file/d/1Qrfejz2-hR4Q-XoelI7lW0_UmB0oPk2-/view?usp=share_link)
