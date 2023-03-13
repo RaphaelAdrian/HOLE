@@ -2,14 +2,21 @@
 ## Overview
 I was tasked to build my own Hole.io game in 4 days using Unity Game Engine (URP).
 
+
 ## Mechanics
-Player needs to absorb as many food as he can within the time limit. 
+Player needs to absorb as many food as he can within the time limit.  <br />
+Beat your old score with your local leaderboards.
+As the player absorbs food, the player increases its hole size. 
+
+
+## Controls 
+Mouse Movement - Player Movement
 
 ## Assets
 Credits to: [3D Props Adorable Foods](https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249) - for food asset
 Music BGM/SFX, Textures, User Interface was made by myself.
 
-## Screenshots
+## Game Screenshots
 ### Main Menu
 ![image](https://user-images.githubusercontent.com/68283243/222924540-5c645a5d-203b-4210-b362-48943e039efc.png)
 ### Gameplay
