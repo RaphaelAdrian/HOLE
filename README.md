@@ -18,6 +18,7 @@ Credits to: [3D Props Adorable Foods](https://assetstore.unity.com/packages/3d/p
 Music BGM/SFX, Textures, User Interface was made by myself.
 
 ## Game Screenshots
+Foods are generated over the map randomly.
 ### Main Menu
 ![image](https://user-images.githubusercontent.com/68283243/222924540-5c645a5d-203b-4210-b362-48943e039efc.png)
 ### Gameplay
